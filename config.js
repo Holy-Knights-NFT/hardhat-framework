@@ -286,7 +286,7 @@ function prettier(userSettings) {
                     tabWidth: 4,
                     useTabs: false,
                     singleQuote: false,
-                    explicitTypes: "always",
+                    explicitTypes: "preserve",
                     endOfLine: "lf",
                 },
             },
